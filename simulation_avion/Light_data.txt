@@ -1,0 +1,3 @@
+Light : 1 on/off
+Light : 0 on/off
+Light : 1 on/off

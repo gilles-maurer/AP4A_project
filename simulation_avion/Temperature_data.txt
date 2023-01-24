@@ -1,0 +1,3 @@
+Temperature : 24.49 C
+Temperature : 28.34 C
+Temperature : 24.64 C
